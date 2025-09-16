@@ -1,0 +1,8 @@
+"0","#| label: tbl-hlth
+#| eval: true
+#| echo: false
+#| tbl-cap: ""Total health expenditure by use of funds, in millions of current dollars, Canada, 1975 to 2022 (Source: CIHI National Health Expenditure Trends)""
+cihi <- read.csv(""hlthexp.csv"")
+"
+"2","Error in file(file, ""rt"") : cannot open the connection
+"
